@@ -1,0 +1,11 @@
+E:\SEMESTER 4\KONSTRUKSI PERANGKAT LUNAK\VISUAL STUDIO 2022 PROJECT\MODUL2 (kalkulator)\MODUL2 (kalkulator)\bin\Debug\MODUL2 (kalkulator).exe.config
+E:\SEMESTER 4\KONSTRUKSI PERANGKAT LUNAK\VISUAL STUDIO 2022 PROJECT\MODUL2 (kalkulator)\MODUL2 (kalkulator)\bin\Debug\MODUL2 (kalkulator).exe
+E:\SEMESTER 4\KONSTRUKSI PERANGKAT LUNAK\VISUAL STUDIO 2022 PROJECT\MODUL2 (kalkulator)\MODUL2 (kalkulator)\bin\Debug\MODUL2 (kalkulator).pdb
+E:\SEMESTER 4\KONSTRUKSI PERANGKAT LUNAK\VISUAL STUDIO 2022 PROJECT\MODUL2 (kalkulator)\MODUL2 (kalkulator)\obj\Debug\MODUL2 (kalkulator).csproj.AssemblyReference.cache
+E:\SEMESTER 4\KONSTRUKSI PERANGKAT LUNAK\VISUAL STUDIO 2022 PROJECT\MODUL2 (kalkulator)\MODUL2 (kalkulator)\obj\Debug\MODUL2 (kalkulator).csproj.SuggestedBindingRedirects.cache
+E:\SEMESTER 4\KONSTRUKSI PERANGKAT LUNAK\VISUAL STUDIO 2022 PROJECT\MODUL2 (kalkulator)\MODUL2 (kalkulator)\obj\Debug\MODUL2__kalkulator_.Form1.resources
+E:\SEMESTER 4\KONSTRUKSI PERANGKAT LUNAK\VISUAL STUDIO 2022 PROJECT\MODUL2 (kalkulator)\MODUL2 (kalkulator)\obj\Debug\MODUL2__kalkulator_.Properties.Resources.resources
+E:\SEMESTER 4\KONSTRUKSI PERANGKAT LUNAK\VISUAL STUDIO 2022 PROJECT\MODUL2 (kalkulator)\MODUL2 (kalkulator)\obj\Debug\MODUL2 (kalkulator).csproj.GenerateResource.cache
+E:\SEMESTER 4\KONSTRUKSI PERANGKAT LUNAK\VISUAL STUDIO 2022 PROJECT\MODUL2 (kalkulator)\MODUL2 (kalkulator)\obj\Debug\MODUL2 (kalkulator).csproj.CoreCompileInputs.cache
+E:\SEMESTER 4\KONSTRUKSI PERANGKAT LUNAK\VISUAL STUDIO 2022 PROJECT\MODUL2 (kalkulator)\MODUL2 (kalkulator)\obj\Debug\MODUL2 (kalkulator).exe
+E:\SEMESTER 4\KONSTRUKSI PERANGKAT LUNAK\VISUAL STUDIO 2022 PROJECT\MODUL2 (kalkulator)\MODUL2 (kalkulator)\obj\Debug\MODUL2 (kalkulator).pdb
